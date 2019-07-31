@@ -2831,10 +2831,10 @@ https-browserify@^1.0.0:
   resolved "https://registry.yarnpkg.com/https-browserify/-/https-browserify-1.0.0.tgz#ec06c10e0a34c0f2faf199f7fd7fc78fffd03c73"
   integrity sha1-7AbBDgo0wPL68Zn3/X/Hj//QPHM=
 
-hyperapp@~1:
-  version "1.2.10"
-  resolved "https://registry.yarnpkg.com/hyperapp/-/hyperapp-1.2.10.tgz#2198d71047ac5c7e7a801036f3e80d64dbe64ad1"
-  integrity sha512-6htzCy/Y9QiSXyUGgZhfTqW0NtK7uMlaGS2t/kARJifu5vR4FjMcfC/5lqVs2mLSZ6GdKLEPsMZOVBpHz5X/qg==
+hyperapp@~2:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/hyperapp/-/hyperapp-2.0.0.tgz#f635231fbc4a9f02867df98d433656d0faceced4"
+  integrity sha512-WiXOnHUH4sf483oGH3MECI5YfHhqQSVoNHd/vV2WOBH/+BEnRh3l8oWaJvix42ajIJq4I9mIAzXP+ncWBCV2gA==
 
 iconv-lite@0.4.24, iconv-lite@^0.4.24, iconv-lite@^0.4.4:
   version "0.4.24"
